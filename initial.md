@@ -7,4 +7,4 @@ MEMBERS:
   4. Arnav Vikas Garg
   5. Krrishna Gulati
 
-PROBLEM STATEMENT : Resume Screening
+PROBLEM STATEMENT : Resume Screener
